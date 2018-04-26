@@ -1,0 +1,12 @@
+## .gitignore for eclipse
+.classpath  
+.project  
+.settings/
+.target/**/*.class
+.metadata
+*.class
+# for log
+/logs
+*.log
+*.log.*
+/bin/*
